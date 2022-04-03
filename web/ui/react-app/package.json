@@ -70,7 +70,7 @@
     "@types/enzyme": "^3.10.10",
     "@types/flot": "0.0.32",
     "@types/jest": "^27.0.3",
-    "@types/jquery": "^3.5.9",
+    "@types/jquery": "^3.5.14",
     "@types/node": "^16.11.12",
     "@types/react": "^17.0.39",
     "@types/react-copy-to-clipboard": "^5.0.2",
