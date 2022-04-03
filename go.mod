@@ -15,7 +15,7 @@ require (
 	github.com/containerd/containerd v1.6.1 // indirect
 	github.com/dennwc/varint v1.0.0
 	github.com/dgryski/go-sip13 v0.0.0-20200911182023-62edffca9245
-	github.com/digitalocean/godo v1.75.0
+	github.com/digitalocean/godo v1.78.0
 	github.com/docker/docker v20.10.12+incompatible
 	github.com/edsrzf/mmap-go v1.1.0
 	github.com/envoyproxy/go-control-plane v0.10.1
