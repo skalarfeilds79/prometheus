@@ -31,7 +31,7 @@
   },
   "homepage": "https://github.com/prometheus/codemirror-promql/blob/main/README.md",
   "dependencies": {
-    "lru-cache": "^6.0.0"
+    "lru-cache": "^7.9.0"
   },
   "devDependencies": {
     "@codemirror/autocomplete": "^0.19.9",
