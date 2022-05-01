@@ -46,7 +46,7 @@
     "@lezer/generator": "^0.15.2",
     "@types/chai": "^4.2.22",
     "@types/lru-cache": "^5.1.1",
-    "@types/mocha": "^9.0.0",
+    "@types/mocha": "^9.1.1",
     "@types/node": "^16.11.12",
     "@typescript-eslint/eslint-plugin": "^5.8.0",
     "@typescript-eslint/parser": "^5.8.0",
