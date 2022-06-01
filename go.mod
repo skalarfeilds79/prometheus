@@ -38,7 +38,7 @@ require (
 	github.com/hetznercloud/hcloud-go v1.33.1
 	github.com/json-iterator/go v1.1.12
 	github.com/kolo/xmlrpc v0.0.0-20201022064351-38db28db192b
-	github.com/linode/linodego v1.3.0
+	github.com/linode/linodego v1.6.0
 	github.com/mattn/go-colorable v0.1.8 // indirect
 	github.com/miekg/dns v1.1.46
 	github.com/moby/term v0.0.0-20210619224110-3f7ff695adc6 // indirect
