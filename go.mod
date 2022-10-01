@@ -15,7 +15,7 @@ require (
 	github.com/containerd/containerd v1.6.1 // indirect
 	github.com/dennwc/varint v1.0.0
 	github.com/dgryski/go-sip13 v0.0.0-20200911182023-62edffca9245
-	github.com/digitalocean/godo v1.75.0
+	github.com/digitalocean/godo v1.86.0
 	github.com/docker/docker v20.10.12+incompatible
 	github.com/edsrzf/mmap-go v1.1.0
 	github.com/envoyproxy/go-control-plane v0.10.1
@@ -67,16 +67,16 @@ require (
 	go.uber.org/atomic v1.9.0
 	go.uber.org/automaxprocs v1.4.0
 	go.uber.org/goleak v1.1.12
-	golang.org/x/net v0.0.0-20220225172249-27dd8689420f
-	golang.org/x/oauth2 v0.0.0-20220223155221-ee480838109b
+	golang.org/x/net v0.0.0-20220921155015-db77216a4ee9
+	golang.org/x/oauth2 v0.0.0-20220411215720-9780585627b5
 	golang.org/x/sync v0.0.0-20210220032951-036812b2e83c
-	golang.org/x/sys v0.0.0-20220222172238-00053529121e
+	golang.org/x/sys v0.0.0-20220728004956-3c1f35247d10
 	golang.org/x/time v0.0.0-20220210224613-90d013bbcef8
 	golang.org/x/tools v0.1.9
 	google.golang.org/api v0.70.0
 	google.golang.org/genproto v0.0.0-20220222154240-daf995802d7b
 	google.golang.org/grpc v1.44.0
-	google.golang.org/protobuf v1.27.1
+	google.golang.org/protobuf v1.28.0
 	gopkg.in/alecthomas/kingpin.v2 v2.2.6
 	gopkg.in/yaml.v2 v2.4.0
 	gopkg.in/yaml.v3 v3.0.0-20210107192922-496545a6307b
