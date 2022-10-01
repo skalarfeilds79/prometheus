@@ -38,7 +38,7 @@ require (
 	github.com/hetznercloud/hcloud-go v1.33.1
 	github.com/json-iterator/go v1.1.12
 	github.com/kolo/xmlrpc v0.0.0-20201022064351-38db28db192b
-	github.com/linode/linodego v1.3.0
+	github.com/linode/linodego v1.9.3
 	github.com/mattn/go-colorable v0.1.8 // indirect
 	github.com/miekg/dns v1.1.46
 	github.com/moby/term v0.0.0-20210619224110-3f7ff695adc6 // indirect
@@ -56,7 +56,7 @@ require (
 	github.com/prometheus/exporter-toolkit v0.7.1
 	github.com/scaleway/scaleway-sdk-go v1.0.0-beta.9
 	github.com/shurcooL/httpfs v0.0.0-20190707220628-8d4bc4ba7749
-	github.com/stretchr/testify v1.7.0
+	github.com/stretchr/testify v1.7.1
 	go.opentelemetry.io/contrib/instrumentation/net/http/otelhttp v0.29.0
 	go.opentelemetry.io/otel v1.4.1
 	go.opentelemetry.io/otel/exporters/otlp/otlptrace v1.4.1
